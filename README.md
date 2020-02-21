@@ -46,7 +46,7 @@ When the user first opens the app, she sees that the app is loading a wallet:
 
 ![Screenshot_20200222-023138](https://user-images.githubusercontent.com/59374467/75072497-9b87c400-551d-11ea-8543-3fb016d97019.png)
 
-Then, when a user wallet loads her wallet, she is informed of some stuff she need to know about her livestream player app.
+When a user's wallet loads, the app informs the user of some stuff she needs to know about her livestream player app.
 
 ![Screenshot_20200222-023143](https://user-images.githubusercontent.com/59374467/75072546-b0fcee00-551d-11ea-9f43-cfade2a66c98.png)
 
@@ -54,7 +54,7 @@ She likes to support independent ventures on Ethereum, so she chooses to pay, di
 
 If she taps the screen, the app will close, and the wallet's address will be copied to clipboard.
 
-She can send goETH to this address by pasting it into a Web 3 wallet which supports Gorli testnet (such as [WallETH](https://play.google.com/store/apps/details?id=org.walleth) or [MetaMask](https://play.google.com/store/apps/details?id=io.metamask).
+She can send göETH to this address by pasting it into a Web 3 wallet which supports Görli testnet (such as [WallETH](https://play.google.com/store/apps/details?id=org.walleth) or [MetaMask](https://play.google.com/store/apps/details?id=io.metamask)).
 
 Once the user has loaded her wallet with some credit, in göETH, then it will load the livestream:
 
@@ -68,11 +68,11 @@ The end to end testing of this software was performed, with [Etherscan transacti
 
 ![Screenshot from 2020-02-22 03-07-13](https://user-images.githubusercontent.com/59374467/75074789-6b8eef80-5522-11ea-8ffd-800d4563adaf.png)
 
-## Request for Content
+## Call for Content
 
-Please note, the content currently being displayed is a test signal.
+Please note, the content currently being displayed is usually just a test signal.
 
-It can be replaced with live (and more interesting) content really easily.
+It can (and probably will) be replaced with live (and more interesting) content really easily.
 
 If you want to appear on Görli TV, please email us at [Video DAC](mailto:videodac@protonmail.com) to find out how.
 

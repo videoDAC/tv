@@ -50,7 +50,6 @@ Then, when a user wallet loads her wallet, she is informed of some stuff she nee
 
 ![Screenshot_20200222-023143](https://user-images.githubusercontent.com/59374467/75072546-b0fcee00-551d-11ea-9f43-cfade2a66c98.png)
 
-![Screenshot from 2020-02-22 03-07-13](https://user-images.githubusercontent.com/59374467/75074789-6b8eef80-5522-11ea-8ffd-800d4563adaf.png)
 She likes to support independent ventures on Ethereum, so she chooses to pay, directly to the publisher, in order to watch.
 
 If she taps the screen, the app will close, and the wallet's address will be copied to clipboard.

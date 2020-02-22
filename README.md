@@ -8,7 +8,7 @@ It uses a Minimum Viable Product (MVP) Pay-As-You-Go Livestream Player Applicati
 
 ## Pre-requisites
 
-- In order to watch Görli TV, you will need an Android device,
+- In order to watch Görli TV, you will need an Android device, version 4.1 or higher.
 
 - It would also be helpful if you already have göETH.
   - If you don't already have göETH, talk to the nice people in [goerli/testnet channel on gitter](https://gitter.im/goerli/testnet).
@@ -20,7 +20,7 @@ The [git commit hash](https://github.com/videoDAC/apps/commit/5f3214a4c2a1bb87ac
 Here is [a zip of the APK files](https://github.com/videoDAC/apps/files/4238030/gorli-tv-apks.zip) which can be installed on your Android device (4.1 upwards):
 
 - `gorli-tv-debug.apk` for local testing and debugging.
-- `gorli-tv-release.apk` to be released to Google Play store under Görli TV, by [Video DAC](https://github.com/videoDAC)
+- `gorli-tv-release.apk` has been released to Google Play store under [Görli TV](https://play.google.com/store/apps/details?id=com.videodac.hls).
 
 ## User Experience
 

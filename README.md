@@ -26,7 +26,7 @@ Here is [a zip of the APK files](https://github.com/videoDAC/apps/files/4238030/
 
 Once configured, and charged with a credit balance in göETH, this app becomes the ultimate in simplicity.
 
-It involves:
+It works like this:
 
 > **Tap app launcher** to turn TV **ON**
 
@@ -38,7 +38,7 @@ More details:
 - Volume can be controlled via the device's hardware buttons.
 - There are no on-screen controls for fast-forward / rewind, as this is _only_ streaming live. Now. In the present moment.
 
-But this is the pot of gold at the end. First you have to pass the following hurdles of user journey and testing. Please leave issues above :)
+But first you have to pass the following hurdles of user journey and testing. Please leave issues above :)
 
 ### User Journey
 
@@ -67,6 +67,13 @@ The end to end testing of this software was performed, with [Etherscan transacti
 4 minutes of watching Görli TV live. What heaven!
 
 ![Screenshot from 2020-02-22 03-07-13](https://user-images.githubusercontent.com/59374467/75074789-6b8eef80-5522-11ea-8ffd-800d4563adaf.png)
+
+## Open Issues
+
+Here is [a list of open issues relating to this app](https://github.com/videoDAC/apps/issues).
+
+It contains known bugs, proposed enhancements, research topics and 
+
 
 ## Call for Content
 

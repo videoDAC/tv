@@ -72,7 +72,7 @@ The end to end testing of this software was performed, with [Etherscan transacti
 
 Here is [a list of open issues relating to this app](https://github.com/videoDAC/apps/issues).
 
-It contains known bugs, proposed enhancements, research topics and 
+It contains known bugs, proposed enhancements and research topics.
 
 
 ## Call for Content

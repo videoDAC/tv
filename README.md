@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/59374467/75104645-ad5a8b80-5631-11ea-85b6-b4533260da40.png)
+
 # Görli TV
 
 Görli TV is a single-channel startup TV network, where viewers must pay in göETH to watch the channel.
